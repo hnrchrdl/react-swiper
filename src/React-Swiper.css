@@ -1,0 +1,45 @@
+.swipe__container {
+    position: relative;
+    overflow: hidden;
+  }
+  .swipe__left {
+    position: absolute;
+    width: 100px;
+    background: green;
+    transition: left .1s;
+  }
+  .swipe__center {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    transition: left .1s;
+  }
+  .swipe__right {
+    position: absolute;
+    top: 0;
+    transition: right .1s;
+  }
+
+  .container {
+    width: 50vw;
+    margin: 50px auto;
+    postion: relative;
+    background: #eee;
+   }
+
+  .content {
+    color: #fff;
+    padding: 50px;
+  }
+
+  .green {
+    background: green;
+  }
+
+  .red {
+    background: red;
+  }
+
+  .coral {
+    background: coral
+  }
