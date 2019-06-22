@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "create-react-app": "^3.0.1"
+  },
+  "name": "react-swiper",
+  "version": "0.0.1",
+  "description": "Another react component for mobile swipe effects.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnrchrdl/react-swiper.git"
+  },
+  "keywords": [
+    "react",
+    "swipe",
+    "mobile"
+  ],
+  "author": "Hinrich Riedel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hnrchrdl/react-swiper/issues"
+  },
+  "homepage": "https://github.com/hnrchrdl/react-swiper#readme"
+}
